@@ -91,7 +91,7 @@ This is a RESTful API for an eCommerce application built with **Node.js**, **Exp
 
 **Search** functionality
 
-![Screenshot (11171)](https://github.com/user-attachments/assets/c9535ce1-7446-4eb9-b602-f7ee07c8c684)
+![Screenshot (11171)](https://github.com/user-attachments/assets/9b360378-efb9-4dc3-b8d7-ec44622747df)
 
 - **GET** `/products/:id`: Fetch product details by ID.
 
@@ -108,6 +108,8 @@ This is a RESTful API for an eCommerce application built with **Node.js**, **Exp
 
 
 ![Screenshot (11161)](https://github.com/user-attachments/assets/45a319bb-fb1c-4b9e-9f91-6b95ec06c32c)
+![Screenshot (11172)](https://github.com/user-attachments/assets/dd1041c9-3b8d-4346-8307-6fb5072ff381)
+
 
 - **PUT** `/products/:id`: Update a product by ID.
 
