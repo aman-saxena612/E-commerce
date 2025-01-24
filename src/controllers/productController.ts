@@ -51,7 +51,7 @@ export const productController = {
 
         const newProduct = await productService.createProduct(newProductData);
         res.status(201).json(newProduct);
-      } catch (error: any) { // Type error as any
+      } catch (error: any) {
         res.status(500).json({ message: 'Error creating product', error: error.message });
       }
     });
